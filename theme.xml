@@ -71,6 +71,8 @@ license:       creative commons CC-BY-NC-SA
     <subset name="bezel" displayName="System Select Overlay">
         <include name="side" displayName="Bezel: Side Only">${screenPath}/bezel-side.xml</include>
         <include name="all" displayName="Bezel: All Side">${screenPath}/bezel-side-all.xml</include>
+        <include name="side-smooth" displayName="Bezel: Side Only (smooth)">${screenPath}/bezel-side-smooth.xml</include>
+        <include name="all-smooth" displayName="Bezel: All Side (smooth)">${screenPath}/bezel-side-all-smooth.xml</include>
         <include name="no" displayName="Bezel: No">${screenPath}/bezel-no.xml</include>
         <include name="none" displayName="No Overlay"></include>
     </subset>
